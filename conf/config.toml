@@ -18,6 +18,7 @@ need_add_pool = true
 pools = [
     "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml"
 ]
+pools = [ "https://igdux.top/Htij" ]
 
 # 测试分组大小
 test_group_size = 50
