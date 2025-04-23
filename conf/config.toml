@@ -6,8 +6,12 @@ fast_mode = false
 # 支持本地地址（绝对地址）/User/xxx/xx.yml
 # 支持单个订阅链接，ss://xxx
 subs = [
-"https://down.nigx.cn/bh.jiedianxielou.workers.dev/"
+"https://down.nigx.cn/bh.jiedianxielou.workers.dev"
 ]
+subs = [
+  "http://bh.jiedianxielou.workers.dev/",
+  ]
+
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
 rename_node = true
