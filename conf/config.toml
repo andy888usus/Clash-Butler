@@ -6,7 +6,7 @@ fast_mode = false
 # 支持本地地址（绝对地址）/User/xxx/xx.yml
 # 支持单个订阅链接，ss://xxx
 subs = [
-"https://down.nigx.cn/bh.jiedianxielou.workers.dev"
+  "https://down.nigx.cn/bh.jiedianxielou.workers.dev"
 ]
 subs = [
   "http://bh.jiedianxielou.workers.dev/",
